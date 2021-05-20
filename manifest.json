@@ -2,8 +2,8 @@
   "description": "Fixes Microsoft Teams phone functionality by using the user agent from Microsoft Edge.",
   "manifest_version": 2,
   "name": "Teams Phone Fix",
-  "version": "1.1",
-  "homepage_url": "https://github.com/dev-rke/teams-phone-fix",
+  "version": "1.2",
+  "homepage_url": "https://github.com/justinvansteijn/teams-phone-fix",
   "icons": {
     "48": "icon.svg",
     "96": "icon.svg"

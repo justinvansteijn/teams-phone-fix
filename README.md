@@ -1,14 +1,14 @@
 # Teams Phone Fix
 
-**Microsoft released an official [Teams for Linux](https://teams.microsoft.com/downloads) Client. 
-It is strongly recommended to use the official application.**
-
 This Firefox addon fixes the error message in Microsoft Teams claiming your browser is not supported 
 to do phone calls. It is especially intended for Linux users using Firefox, as Microsoft seems to block browsers which are not in their scope.
 
 This Firefox addon might also run under Windows and MacOS, but i did not test that.
 Therefore use this addon at your own risk, as your browser is not offically supported by the Microsoft Teams website.
 
+## Version
+
+This addon version is a fork of [Teams Phone Fix by dev-rke](https://addons.mozilla.org/nl/firefox/addon/teams-phone-fix/), which is not maintained anymore.
 
 ## How does it work?
 
@@ -31,8 +31,7 @@ To automate this, the extension requires permission to access tabs.
 
 There will be some download statistics of this application collected by Mozilla via https://addons.mozilla.org/.
 
-The source code can be found at [github](https://github.com/dev-rke/teams-phone-fix).
-
+The source code can be found at [Github](https://github.com/justinvansteijn/teams-phone-fix).
 
 ## License
 
